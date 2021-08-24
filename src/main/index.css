@@ -78,7 +78,7 @@
 .product-footer {
   display: flex;
   justify-content: space-between;
-  allgn-items: center;
+  align-items: center;
   margin-top: 12px;
 }
 
